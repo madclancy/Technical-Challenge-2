@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Survivor Manifesto"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Outwit, Outlast, Outplay
+      - href: about.qmd
+        text: Seasons to Study
+
+format:
+  html:
+    theme:
+      light: united
+      dark: slate
+    css: styles.css
+    toc: true
+  pdf: 
+    documentclass: report
+  docx: default
+  pptx: default
+
+
+
+

@@ -1,0 +1,10 @@
+---
+title: "Seasons to Study"
+---
+
+
+{{< include _seasons.qmd >}}
+
+
+
+![Jeff wants YOU!](dims.apnews.jpg)
